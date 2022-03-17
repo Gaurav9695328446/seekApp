@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871353892148",
+    "project_id": "seek-project-344220",
+    "storage_bucket": "seek-project-344220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871353892148:android:081c082cdb4a8a97b5b961",
+        "android_client_info": {
+          "package_name": "com.seekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871353892148-nka0n1acfaenf3n7tavf7ml6e9eth7cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seekapp",
+            "certificate_hash": "fb2942fea597f205e5bdca3fb07b1095c629e3a5"
+          }
+        },
+        {
+          "client_id": "871353892148-35uerfego2pvm23cs4nj5v54egf9vm7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfbYbaitGAFTB0mzVy0e4kQwTlu2hxIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871353892148-35uerfego2pvm23cs4nj5v54egf9vm7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
